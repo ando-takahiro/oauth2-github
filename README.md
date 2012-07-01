@@ -10,4 +10,4 @@
 
 ## setting
 
-![app setting](https://github.com/ando-takahiro/oauth2-github/raw/master/articles/config.png)
+![app setting](https://github.com/ando-takahiro/oauth2-github/raw/master/config.png)
